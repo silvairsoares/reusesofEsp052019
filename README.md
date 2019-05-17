@@ -1,7 +1,7 @@
 # reuseSoftEsp052019
+Repositório de atividades para exercícios para disciplina de Reuso de Software -Arquitetura e Engenharia de Software
 
 ## Abstract Factory
-Repositório de atividades para exercícios para disciplina de Reuso de Software -Arquitetura e Engenharia de Software
 
 ### Curiosidade
 - Mesmo conceito do Factory Method, contudo, esse padrão é uma fábrica de objetos que constrói vários tipos de objetos.
