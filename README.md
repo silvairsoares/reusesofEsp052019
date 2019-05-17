@@ -1,7 +1,7 @@
 # reuseSoftEsp052019
+Repositório de atividades para exercícios para disciplina de Reuso de Software -Arquitetura e Engenharia de Software
 
 ## Factory Method
-Repositório de atividades para exercícios para disciplina de Reuso de Software -Arquitetura e Engenharia de Software
 
 ### Motivações
 - Desejar não ser responsável pela construção dos objetos (Injeção de dependência)
