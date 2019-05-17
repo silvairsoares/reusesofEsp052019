@@ -1,26 +1,23 @@
 # reuseSoftEsp052019
 
-## Factory Method
+## Abstract Factory
 Repositório de atividades para exercícios para disciplina de Reuso de Software -Arquitetura e Engenharia de Software
 
-### Motivações
-- Desejar não ser responsável pela construção dos objetos (Injeção de dependência)
-- Situações onde a instanciação de um objeto exige processamento ou algum tipo de lógica de negócios 
-- A decisão de qual sub-tipo criar não é uma decisão trivial
-- É melhor usar um objeto, do que decidir se devo ou não criar um objeto
+### Curiosidade
+- Mesmo conceito do Factory Method, contudo, esse padrão é uma fábrica de objetos que constrói vários tipos de objetos.
+- Faz sentido somente quando dois tipos de objetos 
 
 ### Problema
-Problema: Definir qual o tipo de veículo criar em um cenário onde a quantidade de pessoas e o tempo são as questões mais importantes.
+Problema: 
+Uma empresa de transportes deve preparar seus veículos para transportes de carga. Cada preparação consiste em adequar o módulo de cargas (carroceria) e aplicar um seguro adequado para a carga transportada. Os tipos de carga trasnportadas pela empresa são:
+- Carga viva (gado, porco)
+- Combustível 
+- Matéria orgânica (milho e soja)
 
 Dados de entrada:
-- Condição metereológica {Sol, Chuva}
-- Quantidade de pessoas 
+- Tipo de transporte a ser realizado.
 
 Regra de negõcio: 
-- Só cria objeto para distâncias até 500 km
-- Para até 2 (duas) pessoas criar um Tesla Roadster Eletricidade
-- Para até 5 (cinco) pessoas e tempo de Sol, criar um Escort Xr3 conversível Alcool (Carro conversível)
-- Para até 5 (cinco) pessoas e tempo de Chuva, criar um Opala a gasolina (Carro convencional)
-- Para mais de 5 (cinco) pessoas e menos de 20 (vinte) pessoas, criar uma Besta a Diesel (Van)
-
-Extensão do problema: O cenário mudou. Agora os caminhoneiros estão em greve e todo abastecimento de combustível fóssil foi interrompido. O principal critério é o tipo de combustível
+- Para cada "viagem" o caminhão deve ser preparado com:
+-- Carroceria específica
+-- Seguro adequado ao tipo de mercadoria transportada
