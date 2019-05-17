@@ -1,4 +1,4 @@
-# reusesofEsp052019
+# reuseSoftEsp052019
 
 ## Factory Method
 Repositório de atividades para exercícios para disciplina de Reuso de Software -Arquitetura e Engenharia de Software
