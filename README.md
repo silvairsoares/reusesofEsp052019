@@ -9,7 +9,7 @@ Repositório de atividades para exercícios para disciplina de Reuso de Software
 - A decisão de qual sub-tipo criar não é uma decisão trivial
 - É melhor usar um objeto, do que decidir se devo ou não criar um objeto
 
-### Problema 1
+### Problema
 Problema: Definir qual o tipo de veículo criar em um cenário onde a quantidade de pessoas e o tempo são as questões mais importantes.
 
 Dados de entrada:
