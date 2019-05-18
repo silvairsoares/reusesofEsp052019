@@ -4,7 +4,7 @@ Repositório de atividades para exercícios para disciplina de Reuso de Software
 ## Template Method
 
 ### Curiosidade
-- Push vs Pull
+- Uso de herança e classes abstratas para "unir" as partes significantes
 - Utilização de hook functions
 
 ### Problema
