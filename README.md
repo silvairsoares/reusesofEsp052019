@@ -5,7 +5,7 @@ Repositório de atividades para exercícios para disciplina de Reuso de Software
 
 ### Curiosidade
 - Bastante abstrato para o mundo real.
-- Para melhor compreensão os melhores exemplos são exemplos de problemas de software
+- Para melhor compreensão os melhores exemplos são de problemas de software
 
 ### Problema
 Problema (Extraído e editado do livro Padrões de Projeto e soluções reutilizáveis - ): 
