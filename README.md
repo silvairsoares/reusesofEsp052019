@@ -4,6 +4,8 @@ Repositório de atividades para exercícios para disciplina de Reuso de Software
 ## Strategy
 
 ### Curiosidade
+- Utiliza a composição como meio de reuso e não Herança.
+### Problema
 - O Netflix possui 4(quatro) modalidades de assinatura como mostra a imagem abaixo
 <img src="planosNetflix.png">
 
@@ -14,10 +16,3 @@ Repositório de atividades para exercícios para disciplina de Reuso de Software
 - É um problema passível de ser aplicado o pattern Strategy ?
 
 Bora senta o dedo pra codificar... 
-
-### Problema
-Dados de entrada:
-- 
-
-Regra de negõcio: 
-- 
