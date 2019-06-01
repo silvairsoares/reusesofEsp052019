@@ -1,3 +1,4 @@
+// silvairsoares@outlook.com
 public class FactoryVeiculo implements IFactory {
 
     public IVeiculo CriarVeiculo(int distancia, int qtdPessoas, TempoEnum tempo) {
